@@ -1,3 +1,2 @@
-Hello there 
-Rawan was here !  
+Hello there   
 this my first git ( version control trial) 
